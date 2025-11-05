@@ -111,7 +111,12 @@ export default function App(){
               </div>
 
               <div className="panel-scroll">
-                <TaskList tasks={filtered} onToggle={toggleDone} onDelete={removeTask} />
+                <TaskList
+                    tasks={filtered}
+                    onToggle={toggleDone}
+                    onDelete={removeTask}
+                    statusFilter={statusFilter}
+                />
               </div>
 
               <StatusBar counts={counts} statusFilter={statusFilter} setStatusFilter={handleStatusFilter} />
