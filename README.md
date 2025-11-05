@@ -30,14 +30,17 @@ src/
 ## Getting Started
 
 ### 1. Install dependencies
+
 ```bash
 npm install
 ```
 
 ### 2. Run the development server
+
 ```bash
 npm run dev
 ```
+
 Then open the app in your browser (Vite will show the URL, usually `http://localhost:5173`).
 
 ---
@@ -45,6 +48,7 @@ Then open the app in your browser (Vite will show the URL, usually `http://local
 ## Testing
 
 To run the included unit test (Vitest + Testing Library):
+
 ```bash
 npm test
 ```
