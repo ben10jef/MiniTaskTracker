@@ -1,6 +1,6 @@
 # Mini Task Tracker — *Northumbria Healthcare*
 
-A lightweight React app for managing daily tasks with simple CSS styling (no Tailwind or Bootstrap).  
+A lightweight React app for managing daily tasks with simple CSS styling.  
 Features task creation, filtering, persistence, and a minimal, user-friendly interface.
 
 ---
