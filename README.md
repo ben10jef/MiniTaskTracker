@@ -1,6 +1,4 @@
-# Mini Task Tracker — CSS Only
-
-No Tailwind/Bootstrap. Minimal custom CSS, modular React components, and a unit test.
+# Mini Task Tracker - Northumbria Healthcare
 
 ## Structure
 ```
